@@ -8,11 +8,11 @@ class User
   veto = function(){
     return 'No, I must disagree'
   }
-  
+
   approve = function(){
     return 'You can do that!'
   }
-  
+
   doCharity = function(){
     return "I like to help people."
   }
